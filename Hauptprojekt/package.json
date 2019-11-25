@@ -1,0 +1,21 @@
+{
+  "name": "panda-game",
+  "version": "1.0.0",
+  "description": "jump'n'run browser game",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.cip.ifi.lmu.de/mederf/sepjs-fantastischefuenf"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "http": "0.0.0",
+    "mongodb": "^2.2.28",
+    "socket.io": "^2.0.3"
+  }
+}
